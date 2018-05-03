@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ListViewAssignment2</string>
+    <string name="editText">input what you what to say</string>
+    <string name="addButton">Add</string>
 </resources>
