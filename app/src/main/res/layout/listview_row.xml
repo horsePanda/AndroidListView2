@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="0.1"
-        app:srcCompat="@drawable/base_jumping96"></ImageView>
+        app:srcCompat="@drawable/apple_icon"></ImageView>
 
 
     <LinearLayout
@@ -26,14 +26,13 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/nameTextViewID"
+            android:id="@+id/commentTextViewID"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:selectAllOnFocus="false"
             android:text="TextView"
-            android:textSize="16sp"
-             />
+            android:textSize="16sp" />
 
     </LinearLayout>
 
